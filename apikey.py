@@ -1,0 +1,1 @@
+apikey = "input your own api key from playground.openai" # needs valid api key with credit balance to run the app
